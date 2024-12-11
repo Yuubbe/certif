@@ -1,0 +1,17 @@
+variable = let  
+print = print!() println!()
+8bits = i8 = u8
+16 bits = i16 = u16
+32 bits = i32 = u32
+64bits = i64 = u64
+128 bits = i128  = u128
+arch = isize = usize
+
+
+statement:
+
+Instruction that perform some action but do not produce a value
+
+function definitions are statements, as well as code that ends with ";" (usually)
+
+Expression : Evaluate to a resultant value
